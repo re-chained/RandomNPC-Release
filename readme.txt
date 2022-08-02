@@ -1,3 +1,6 @@
+!!NOTE: An issue exists where some images do not come through when exporting to .pdf. This is an underlying issue with
+the lazarus module that creates .pdf files and I have no control over it. See the "Help & About" window for a workaround.!!
+
 Use the Settings menu to customize what races are picked, how stats are generated, and to add/remove backgrounds.
 Backgrounds can also be added directly to the backgrounds.cfg file.
 
